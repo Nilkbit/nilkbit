@@ -3,8 +3,8 @@
 ![My Skills](https://skillicons.dev/icons?i=figma,vscodium,sass,react,vue,postgres,nextjs,nuxtjs,supabase&perline=3)
 
 ### --- Projects ---
-#### My site
-[![nilkbit-next](https://github-readme-stats.vercel.app/api/pin/?username=nilkbit&repo=nilkbit-next&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)](https://github.com/Nilkbit/nilkbit-next)
+#### Ui library
+[![bit-ui](https://github-readme-stats.vercel.app/api/pin/?username=nilkbit&repo=bit-ui&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)](https://github.com/Nilkbit/bit-ui)
 
 ### --- Statistics ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nilkbit&show_icons=true&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)
