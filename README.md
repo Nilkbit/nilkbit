@@ -4,7 +4,7 @@
 
 ### --- Projects ---
 #### Ui library
-[![bit-ui](https://github-readme-stats.vercel.app/api/pin/?username=nilkbit&repo=bit-ui&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)](https://github.com/Nilkbit/bit-ui)
+[![bit-ui-next](https://github-readme-stats.vercel.app/api/pin/?username=nilkbit&repo=bit-ui-next&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)](https://github.com/Nilkbit/bit-ui-next)
 
 ### --- Statistics ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nilkbit&show_icons=true&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)
