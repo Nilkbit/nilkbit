@@ -3,8 +3,8 @@
 ![My Skills](https://skillicons.dev/icons?i=figma,vscodium,sass,react,vue,postgres,nextjs,nuxtjs,supabase&perline=3)
 
 ### --- Projects ---
-#### Ui library
-[![bit-ui-next](https://github-readme-stats.vercel.app/api/pin/?username=nilkbit&repo=bit-ui-next&theme=transparent&title_color=00FF2B&text_color=ffffff&icon_color=00FF2B&border_color=383838&border_radius=12)](https://github.com/Nilkbit/bit-ui-next)
+#### Bit-UI (Components library)
+[Next.js(React)](https://github.com/Nilkbit/bit-ui-next)
 
 ### --- Statistics ---
 ![](https://raw.githubusercontent.com/nilkbit/github-stats/master/generated/overview.svg#gh-dark-mode-only)
